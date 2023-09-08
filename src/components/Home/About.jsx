@@ -28,13 +28,11 @@ const About = () => {
                 <br />
                 <br />
                   As a
-                  <b className="yellow"> Full-Stack </b>developer,  
+                  <b className="yellow"> Computer Science </b>student,  
                   I enjoy tackling new challenges and continuously expanding my skillset.
                   <br />
                   <br />I am familiar with
                     <b className="yellow"> Java, HTML, and CSS. </b>
-                
-                  <b className="yellow"> GraphQL, and Solidity.</b>
                   <br />
                   <br />
                   I have a passion for working
@@ -85,17 +83,7 @@ const About = () => {
                       <AiFillGithub />
                     </a>
                   </li>
-                  <li className="social-icons">
-                    <a
-                      href="https://twitter.com/19sajib"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour  home-social-icons"
-                      aria-label="twitter"
-                    >
-                      <AiOutlineTwitter />
-                    </a>
-                  </li>
+                 
                   <li className="social-icons">
                     <a
                       href="https://www.linkedin.com/in/19sajib/"
@@ -105,17 +93,6 @@ const About = () => {
                       aria-label="linkedin"
                     >
                       <FaLinkedinIn />
-                    </a>
-                  </li>
-                  <li className="social-icons">
-                    <a
-                      href="https://www.instagram.com/19sajib"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour home-social-icons"
-                      aria-label="instagram"
-                    >
-                      <AiFillInstagram />
                     </a>
                   </li>
                 </ul>
