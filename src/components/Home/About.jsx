@@ -24,7 +24,7 @@ const About = () => {
                  and I'm from <span className="yellow"> Naples, Florida.</span>
                 <br />
                 <br />
-                I currently an undergrad obtaining a Bachelor's degree in Computer Science.
+                I am currently an undergrad obtaining a Bachelor's degree in Computer Science.
                 <br />
                 <br />
                   As a
