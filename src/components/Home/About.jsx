@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import LaptopImg from "../../assets/home-main.svg";
 import Tilt from "react-parallax-tilt";
 import { AiFillGithub } from "react-icons/ai";
-
 const About = () => {
   return (
     <Container fluid className="home-about-section" id="about">
@@ -72,7 +71,6 @@ const About = () => {
                   <AiFillGithub />
                 </a>
               </li>
-              {/* Add LinkedIn icon and link here if needed */}
             </ul>
           </Col>
         </Row>
